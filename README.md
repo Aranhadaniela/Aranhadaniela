@@ -48,7 +48,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-0a192f?style=for-the-badge&logo=css3&logoColor=00bfff&labelColor=0a192f)&nbsp;
 
 ---
+<div align="center">
 
+[![Email](https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=00bfff)](mailto:daniela_aranha@edu.unifor.br)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00bfff)](www.linkedin.com/in/daniela-aranha-goes-5453b3353)  
+</div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aranhadaniela}/count.svg" /></p> 
