@@ -38,6 +38,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0a192f?style=for-the-badge&logo=github&logoColor=00bfff&labelColor=0a192f)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0a192f?style=for-the-badge&logo=windows&logoColor=00bfff&labelColor=0a192f)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0a192f?style=for-the-badge&logo=intellij-idea&logoColor=00bfff&labelColor=0a192f)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-0a192f?style=for-the-badge&logo=linuxmint&logoColor=00bfff&labelColor=0a192f)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0a192f?style=for-the-badge&logo=ubuntu&logoColor=00bfff&labelColor=0a192f)
 
 
 ---
