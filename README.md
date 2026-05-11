@@ -11,12 +11,14 @@
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Aranhadaniela&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&bg_color=0a192f" alt="Daniela github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranhadaniela&layout=compact&hide_border=true&title_color=00bfff&text_color=c9d1d9&bg_color=0a192f" />
+
+
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aranhadaniela&bg_color=0a192f&color=00bfff&line=00bfff&point=1e90ff&area=true&hide_border=true"/>
 </div>
 
-[![Daniela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aranhadaniela&bg_color=0a192f&color=00bfff&line=00bfff&point=1e90ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
