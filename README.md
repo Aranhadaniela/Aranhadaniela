@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranhadaniela&layout=compact&bg_color=0a192f&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true&langs_count=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aranhadaniela&theme=tokyonight" />
 </div>
 
 ---
