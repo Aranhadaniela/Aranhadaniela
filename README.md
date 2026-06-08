@@ -11,14 +11,15 @@
 
 ---
 
-
-
-
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aranhadaniela&bg_color=0a192f&color=00bfff&line=00bfff&point=1e90ff&area=true&hide_border=true"/>
 </div>
 
+---
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranhadaniela&layout=compact&langs_count=6&bg_color=0a192f&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true"/>
+</div>
 
 ---
 
@@ -28,9 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=00bfff&labelColor=0a192f)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0a192f?style=for-the-badge&logo=html5&logoColor=00bfff&labelColor=0a192f)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0a192f?style=for-the-badge&logo=css3&logoColor=00bfff&labelColor=0a192f)&nbsp;
-
-
-
 
 ---
 
@@ -43,7 +41,6 @@
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-0a192f?style=for-the-badge&logo=linuxmint&logoColor=00bfff&labelColor=0a192f)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0a192f?style=for-the-badge&logo=ubuntu&logoColor=00bfff&labelColor=0a192f)
 
-
 ---
 
 ## 📖 Estudando agora
@@ -53,13 +50,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-0a192f?style=for-the-badge&logo=css3&logoColor=00bfff&labelColor=0a192f)&nbsp;
 ![React](https://img.shields.io/badge/-React-0a192f?style=for-the-badge&logo=react&logoColor=00bfff&labelColor=0a192f)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-0a192f?style=for-the-badge&logo=react&logoColor=00bfff&labelColor=0a192f)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0a192f?style=for-the-badge&logo=kotlin&logoColor=00bfff&labelColor=0a192f)&nbsp;
 
 ---
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=00bfff)](mailto:daniela_aranha@edu.unifor.br)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00bfff)](https://www.linkedin.com/in/daniela-aranha-goes-5453b3353)  
+[![Email](https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=00bfff)](mailto:daniela_aranha@edu.unifor.br)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00bfff)](https://www.linkedin.com/in/daniela-aranha-goes-5453b3353)   
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=footer"/>
