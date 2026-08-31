@@ -10,11 +10,6 @@
 💙 Interesses: programação, desenvolvimento web e tecnologia  
 🚀 Objetivo: crescer como desenvolvedora e contribuir com projetos que impactem positivamente a vida das pessoas e empresas.
 
----
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aranhadaniela&bg_color=0a192f&color=00bfff&line=00bfff&point=1e90ff&area=true&hide_border=true"/>
-</div>
 
 ---
 
