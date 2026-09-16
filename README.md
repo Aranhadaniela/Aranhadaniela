@@ -49,7 +49,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a192f?style=for-the-badge&logo=typescript&logoColor=00bfff&labelColor=0a192f)
 ![React](https://img.shields.io/badge/-React-0a192f?style=for-the-badge&logo=react&logoColor=00bfff&labelColor=0a192f)
 ![React Native](https://img.shields.io/badge/-React%20Native-0a192f?style=for-the-badge&logo=react&logoColor=00bfff&labelColor=0a192f)
-
+![Angular](https://img.shields.io/badge/-Angular-0a192f?style=for-the-badge&logo=angular&logoColor=00bfff&labelColor=0a192f)
 ---
 
 ## 🗂️ Tecnologias e ferramentas utilizadas anteriormente
