@@ -62,6 +62,7 @@
 ![ESP32](https://img.shields.io/badge/-ESP32-0a192f?style=for-the-badge&logo=espressif&logoColor=00bfff&labelColor=0a192f)
 ![Godot](https://img.shields.io/badge/-Godot-0a192f?style=for-the-badge&logo=godot-engine&logoColor=00bfff&labelColor=0a192f)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0a192f?style=for-the-badge&logo=kotlin&logoColor=00bfff&labelColor=0a192f)
+![Docker](https://img.shields.io/badge/-Docker-0a192f?style=for-the-badge&logo=docker&logoColor=00bfff&labelColor=0a192f)
 
 ---
 
